@@ -18,15 +18,15 @@
 
 <br>
 
-![Screenshot](images/1.jpg.png)
+![Screenshot](images/1.jpg)
 
-![Screenshot](images/2.jpg.png)
+![Screenshot](images/2.jpg)
 
-![Screenshot](images/3.jpg.png)
+![Screenshot](images/3.jpg)
 
-![Screenshot](images/4.jpg.png)
+![Screenshot](images/4.jpg)
 
-![Screenshot](images/5.jpg.png)
+![Screenshot](images/5.jpg)
 
 The following tools were used in this project:
 
