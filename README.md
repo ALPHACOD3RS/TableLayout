@@ -32,7 +32,7 @@ The following tools were used in this project:
 
 - [Kotlin](https://kotlin.com/)
 
-Made with :heart: by <a href="https://github.com/" target="_blank"></a>
+Made with :heart <a href="https://github.com/" target="_blank"></a>
 
 &#xa0;
 
