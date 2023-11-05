@@ -18,6 +18,14 @@
 
 <br>
 
+<p align="center">
+  <img src="images/1.jpg" height="400" title="hover text">
+  <img src="images/2.jpg" height="400" alt="accessibility text">
+   <img src="images/3.jpg" height="400" title="hover text">
+    <img src="images/4.jpg" height="400" title="hover text">
+     <img src="images/5.jpg" height="400" title="hover text">
+</p>
+<!-- 
 ![Screenshot](images/1.jpg)
 
 ![Screenshot](images/2.jpg)
@@ -26,7 +34,7 @@
 
 ![Screenshot](images/4.jpg)
 
-![Screenshot](images/5.jpg)
+![Screenshot](images/5.jpg) -->
 
 The following tools were used in this project:
 
